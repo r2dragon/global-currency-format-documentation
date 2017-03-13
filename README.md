@@ -10,8 +10,13 @@ This document provides:
 6. Currency Symbol
 
 
+---
+
+
 ### Contribute
 
 If you have knowledge, references or documentation on the use currencies globally. Please look thorough the list and help complete this document.
 
 Send a pull request or comment
+
+---
