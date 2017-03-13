@@ -12,11 +12,15 @@ This document provides:
 
 ---
 
+### Document
+
+[Global Currency List](https://github.com/r2dragon/global-currency-format-documentation/blob/master/currency-list.md) 
+
+---
+
 
 ### Contribute
 
-If you have knowledge, references or documentation on the use currencies globally. Please look thorough the list and help complete this document.
+If you have knowledge, references or documentation on the use of currencies globally. Please contribute to the list and help complete this document.
 
 Send a pull request or comment
-
----
