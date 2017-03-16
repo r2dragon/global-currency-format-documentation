@@ -14,7 +14,7 @@ This document provides:
 
 ### Document
 
-[Global Currency List](https://github.com/r2dragon/global-currency-format-documentation/blob/master/currency-list.md) 
+[Global Currency List](https://github.com/r2dragon/global-currency-format-documentation/blob/master/currency-list.md)
 
 ---
 
@@ -23,4 +23,4 @@ This document provides:
 
 If you have knowledge, references or documentation on the use of currencies globally. Please contribute to the list and help complete this document.
 
-Send a pull request or comment
+Send me a pull request or [leave a comment](https://github.com/r2dragon/global-currency-format-documentation/issues)
