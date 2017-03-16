@@ -20,7 +20,9 @@
 | Botswana             | `BWP` | Botswanan Pula                      | 1,234,567.89         | P 20 Million <BR> P 20M   | 2K           | P ##,###.00     |
 | Belize               | `BZD` | Belize Dollar                       | 1,234,567.89         | $ 20 Million <BR> $ 20M   | 2K           | $ ##,###.00     |
 | Canada               | `CAD` | Canadian Dollar                     | 1,234,567.89         | $ 20 Million <BR> $ 20M   | 2K           | $ ##,###.00     |
-| Switzerland          | `CHF` | Swiss Franc                         | 1'200'000.89         | *French*<BR>CHF 20 Million<BR>CHF 20M <BR><BR> *Italian*<BR>CHF 20 Milioni<BR>CHF 20M <BR><BR> *German*<BR>CHF 20 Millionen<BR>CHF 20M  | *French*<BR>2 milles <BR><BR> *Italian*<BR>2 mille <BR><BR> *German*<BR>2 tausend | CHF ##'###.00    |
+| Switzerland (French) | `CHF` | Swiss Franc                         | 1'200'000.89         | CHF 20 Millions<BR>CHF 20M| 2 milles<BR>2 k | CHF ##'###.00 |
+| Switzerland (Italian)| `CHF` | Swiss Franc                         | 1.234.567,89         | CHF 20 Milioni <BR>CHF 20 M | -          | CHF ##.###,00   |
+| Switzerland (German) | `CHF` | Swiss Franc                         | 1.234.567,89         | CHF 20 Millionen<BR>CHF 20M | 2 tausend  | CHF ##.###,00   |
 | Chile                | `CLP` | Chilean Peso                        | 1.234.567            | $20 Millón<BR> $ 20M      | 2 mil        | $ ##.### <BR> CLP ##.### |
 | China                | `CNY` | Chinese Yuan                        | 1234567.89<BR>1,234,567.89 | 2千万<BR> 2000万     | 2千           | ¥ ##,###.00     |
 | Colombia             | `COP` | Colombian Peso                      | 1.234.567,89         | $20 millones<BR> $ 20M    | 2 mil        | $ ##.###,00     |
@@ -33,7 +35,22 @@
 | Estonia              | `EEK` | Estonian Kroon                      | 1 234 567,89         | € 20 Million              | -            | € ## ###,00     |
 | Egypt                | `EGP` | Egyptian Pound (LE livre égyptienne)| 1,234,567.89         | 20 Million EGP            | 2K           | ##,###.00 EGP   |
 | Ethiopia             | `ETB` | Ethiopian Birr                      | 1,234,567.89         | ETB 20 Million<BR>ETB 20M | 2K           | ETB ##,###.00   |
-| Austria, Belgium, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Portugal, Slovakia, Slovenia, and Spain | `EUR` | EURO                                | 1,234,567.89<BR> *FR* <BR>1 234 567.89   | € 20 Million <BR> € 20M   | 2K           | € ##,###.00<BR> ##,###.00 € |
+| Austria (German)     | `EUR` | EURO                                | 1.234.567,89         | € 20 Millionen<BR> € 20M  | -            | € ##.###,00     |
+| Belgium (Dutch)      | `EUR` | EURO                                | 1.234.567,89         | € 20 Miljoen <BR> € 20M   | -            | € ##.###,00     |
+| Belgium (French)     | `EUR` | EURO                                | 1 234 567,89         | € 20 Millions <BR> € 20M  | 2 k          | € ## ###,00     |
+| France               | `EUR` | EURO                                | 1 234 567,89         | € 20 Millions <BR> € 20M  | 2 milles<BR>2 k| € ## ###,00   |
+| Finland              | `EUR` | EURO                                | 1 234 567.89         | € 20 Miljoonaa <BR> € 20M | 2K           | € ## ###.00     |
+| Germany              | `EUR` | EURO                                | 1.234.567,89         | € 20 Millionen<BR> € 20M  | 2 tausend    | € ##.###,00     |
+| Greece               | `EUR` | EURO                                | 1,234,567.89         | € 20 εκατομμύρια          | -            | € ##,###.00     |
+| Ireland              | `EUR` | EURO                                | 1,234,567.89         | € 20 Million <BR> € 20 M  | 2K           | € ##,###.00     |
+| Luxembourg (French)  | `EUR` | EURO                                | 1 234 567,89         | € 20 Millions <BR> € 20M  | 2 k          | € ## ###,00     |
+| Luxembourg (German)  | `EUR` | EURO                                | 1.234.567,89         | € 20 Millionen<BR> € 20M  | -            | € ##.###,00     |
+| Portugal             | `EUR` | EURO                                | 1.234.567,89         | € 20 Milhão  <BR> € 20M   | 2 mil        | € ##.###,00     |
+| Italy                | `EUR` | EURO                                | 1.234.567,89         | € 20 Milioni <BR> € 20 M  | -            | € ##.###,00     |
+| Spain                | `EUR` | EURO                                | 1.234.567,89         | € 20 Millones <BR> € 20 M | 2 k          | € ##.###,00     |
+| Slovakia             | `EUR` | EURO                                | 1 234 567.89         | € 20 Milijonov <BR> € 20 M| 2 k          | € ## ###,00     |
+| Slovenia             | `EUR` | EURO                                | 1 234 567.89         | € 20 Milijonov <BR> € 20 M| 2 K          | € ## ###.00     |
+| Netherlands          | `EUR` | EURO                                | 1.234.567,89         | € 20 Miljoen <BR> € 20M   | -            | € ##.###,00     |
 | Fiji                 | `FJD` | Fijian Dollar                       | 1,234,567.89         | Fj$ 20 Million<BR>Fj$ 20M | 2K           | Fj$ ##,###.00 <BR> $ ##,###.00 |
 | Falkland Islands     | `FKP` | Falkland Islands Pound              | 1,234,567.89         | £ 20 Million<BR> £ 20M    | 2K           | £ ##,###.00     |
 | United Kingdom       | `GBP` | British Pound                       | 1,234,567.89         | £ 20 Million<BR> £ 20M    | 2K           | £ ##,###.00 <BR> GBP ##,###.00 |
