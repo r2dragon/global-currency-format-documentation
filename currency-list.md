@@ -43,10 +43,10 @@
 | Germany              | `EUR` | EURO                                | 1.234.567,89         | € 20 Millionen<BR> € 20M  | 2 tausend    | € ##.###,00     |
 | Greece               | `EUR` | EURO                                | 1,234,567.89         | € 20 εκατομμύρια          | -            | € ##,###.00     |
 | Ireland              | `EUR` | EURO                                | 1,234,567.89         | € 20 Million <BR> € 20 M  | 2K           | € ##,###.00     |
+| Italy                | `EUR` | EURO                                | 1.234.567,89         | € 20 Milioni <BR> € 20 M  | -            | € ##.###,00     |
 | Luxembourg (French)  | `EUR` | EURO                                | 1 234 567,89         | € 20 Millions <BR> € 20M  | 2 k          | € ## ###,00     |
 | Luxembourg (German)  | `EUR` | EURO                                | 1.234.567,89         | € 20 Millionen<BR> € 20M  | -            | € ##.###,00     |
 | Portugal             | `EUR` | EURO                                | 1.234.567,89         | € 20 Milhão  <BR> € 20M   | 2 mil        | € ##.###,00     |
-| Italy                | `EUR` | EURO                                | 1.234.567,89         | € 20 Milioni <BR> € 20 M  | -            | € ##.###,00     |
 | Spain                | `EUR` | EURO                                | 1.234.567,89         | € 20 Millones <BR> € 20 M | 2 k          | € ##.###,00     |
 | Slovakia             | `EUR` | EURO                                | 1 234 567.89         | € 20 Milijonov <BR> € 20 M| 2 k          | € ## ###,00     |
 | Slovenia             | `EUR` | EURO                                | 1 234 567.89         | € 20 Milijonov <BR> € 20 M| 2 K          | € ## ###.00     |
