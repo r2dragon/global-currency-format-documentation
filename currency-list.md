@@ -64,7 +64,7 @@
 | Hungary              | `HUF` | Hungarian Forint                    | 1.234.567            | 20 Millió Ft              | -            | ##.### Ft       |
 | Indonesia            | `IDR` | Indonesian Rupiah                   | 1.234.567,89         | Rp. 20 juta <BR>Rp. 20 jt | 2 ribu<BR> 2k| Rp. ##.###,00   |
 | Israel               | `ILS` | Israeli New Shekel                  | 1,234,567.89         | ₪ 20 מיליון               | -            | ₪ ##,###.##     |
-| India                | `INR` | Indian Rupee                        | 890,12,34,567.89     | *In Crore:*<BR> ₹ 2 Crore<BR> ₹ 2 Cr<BR><BR> *In Lakhs:*<BR>₹ ₹ 200 Lakhs <BR> ₹ 200 Lk  | 2k | INR #,##,###.00 <BR>₹ ₹ #,##,###.00 |
+| India                | `INR` | Indian Rupee                        | 890,12,34,567.89     | *In Crore:*<BR> ₹ 2 Crore<BR> ₹ 2 Cr<BR><BR> *In Lakhs:*<BR> ₹ 200 Lakhs <BR> ₹ 200 Lk  | 2k | INR #,##,###.00 <BR>₹ #,##,###.00 |
 | Iraq                 | `IQD` | Iraqi Dinar                         | 1,234,567.899        | IQD 20 Million<BR>IQD 20M | 2K           | IQD ##,###.000  |
 | Iceland              | `ISK` | Icelandic Króna                     | 1.234.567,89         | kr 20 Milljónir <BR>kr 20m| 2þ           | kr ##.###       |
 | Jordan               | `JOD` | Jordanian Dinar                     | 1,234,567.899        | JOD 20 Million <BR>JOD 20M| 2K           | JOD ##,##.000   |
@@ -79,7 +79,7 @@
 | Lesotho              | `LSL` | Lesotho Loti                        | 1,234,567.89         | M20 Million               | 2k           | M##,###.00      |
 | Lithuania            | `LTL` | Lithuanian Litas / EURO             | 1 234 567.89         | € 20 milijonų <BR> € 20M  | 2k           | € ## ###.00     |
 | Latvia               | `LVL` | Latvia Lats / EURO                  | 1.234.567,89         | -                         | -            | LVL ##.###,00   |
-| Morocco              | `MAD` | Moroccan Dirham                     | 1 234 567€89         | 20 Million € <BR> 20M €   | 2K           | ## ###€00       |
+| Morocco              | `MAD` | Moroccan Dirham                     | 1 234 567.89 €       | 20 Million € <BR> 20M €   | 2K           | ## ###.00 €      |
 | Moldova              | `MDL` | Moldovan Leu                        | 1234567.89           | 20 de milioane lei <BR> 20M lei | 2K     | #####.00lei     |
 | Madagascar           | `MGA` | Malagasy Ariary                     | 1 234 567,89         | Ar 20 millions <BR> Ar 20M| 2k           | ## ###,00 Ariary|
 | Macedonia            | `MKD` | Macedonian Denar                    | 1,234,567.89         | MKD 20 милиони <BR> 20 милиони ден | 2 илјади  | ##.###,00 ден. <BR> MKD ##.###,00 |
